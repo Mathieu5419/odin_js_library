@@ -1,0 +1,32 @@
+
+.theBiggest .library{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.displayElement{
+    height: 300px;
+    width: 250px;
+    background-color: beige;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px;   
+}
+
+.form{
+    display: none;
+}
+.display{
+    background-color: beige;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
